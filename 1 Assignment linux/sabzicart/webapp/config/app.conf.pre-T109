@@ -1,0 +1,22 @@
+# SabziCart web application settings
+# Edited by: kamran (last change 2026-09-30)
+
+[server]
+host = 127.0.0.1
+port = 9090
+debug = false
+workers = 2
+max_upload_mb = 10
+
+[contact]
+support_email = support@sabzicart.example
+support_phone = 042-111-000-000
+
+[features]
+cache_enabled = true
+dark_mode = false
+cash_on_delivery = true
+
+[logging]
+level = info
+file = /home/abbasshafi/sabzicart/logs/app/app.log

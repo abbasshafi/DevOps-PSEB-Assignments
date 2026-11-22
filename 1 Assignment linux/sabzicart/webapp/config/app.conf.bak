@@ -1,0 +1,26 @@
+# SabziCart web application settings
+# Edited by: kamran (last change 2026-09-30)
+
+[server]
+host = 127.0.0.1
+port = 8080
+debug = true
+workers = 2
+
+[contact]
+support_email = kamran@sabzicart.example
+support_phone = 042-111-000-000
+
+[features]
+# cache_enabled = true
+dark_mode = false
+cash_on_delivery = true
+
+[legacy]
+old_checkout = true
+old_payment_gateway = easypaisa-v1
+legacy_api_key = REMOVE-ME-123
+
+[logging]
+level = debug
+file = /home/abbasshafi/sabzicart/logs/app/app.log

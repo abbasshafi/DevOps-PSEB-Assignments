@@ -1,0 +1,390 @@
+2026-10-15 00:00:08 INFO [login] rq-4870 User logged in
+2026-10-15 00:04:48 INFO [delivery] rq-4690 Rider assigned
+2026-10-15 00:08:49 INFO [stock] rq-6412 Stock updated
+2026-10-15 00:12:31 INFO [search] rq-5302 Search completed
+2026-10-15 00:16:43 INFO [cart] rq-3556 Cart updated
+2026-10-15 00:20:14 INFO [delivery] rq-4090 Rider assigned
+2026-10-15 00:24:10 ERROR [checkout] rq-5428 Order could not be saved
+2026-10-15 00:28:30 INFO [login] rq-2494 User logged in
+2026-10-15 00:32:47 INFO [checkout] rq-5728 Order placed
+2026-10-15 00:36:31 INFO [search] rq-5368 Search completed
+2026-10-15 00:40:38 INFO [stock] rq-2242 Stock updated
+2026-10-15 00:44:35 INFO [login] rq-4654 User logged in
+2026-10-15 00:48:55 INFO [checkout] rq-1486 Order placed
+2026-10-15 00:52:24 INFO [login] rq-2662 User logged in
+2026-10-15 00:56:31 INFO [stock] rq-4282 Stock updated
+2026-10-15 01:00:48 INFO [login] rq-2410 User logged in
+2026-10-15 01:04:14 INFO [search] rq-3214 Search completed
+2026-10-15 01:08:38 WARN [login] rq-1618 Too many login attempts
+2026-10-15 01:12:56 INFO [cart] rq-4486 Cart updated
+2026-10-15 01:16:48 WARN [search] rq-4984 Slow search query (1.8s)
+2026-10-15 01:20:55 INFO [cart] rq-6196 Cart updated
+2026-10-15 01:24:53 INFO [payment] rq-5890 Payment received
+2026-10-15 01:28:13 INFO [payment] rq-2890 Payment received
+2026-10-15 01:32:22 INFO [stock] rq-3142 Stock updated
+2026-10-15 01:36:52 INFO [stock] rq-6064 Stock updated
+2026-10-15 01:40:03 INFO [payment] rq-2698 Payment received
+2026-10-15 01:44:04 INFO [stock] rq-2332 Stock updated
+2026-10-15 01:48:57 WARN [delivery] rq-1870 Rider location unknown
+2026-10-15 01:52:50 WARN [stock] rq-2806 Low stock: tomatoes
+2026-10-15 01:56:40 INFO [payment] rq-1492 Payment received
+2026-10-15 02:00:25 INFO [search] rq-3760 Search completed
+2026-10-15 02:04:53 ERROR [cart] rq-5974 Database connection refused
+2026-10-15 02:08:42 WARN [cart] rq-4390 Cart sync delayed
+2026-10-15 02:12:59 WARN [payment] rq-2944 Payment retry needed
+2026-10-15 02:16:22 INFO [stock] rq-3754 Stock updated
+2026-10-15 02:20:08 INFO [login] rq-5116 User logged in
+2026-10-15 02:24:33 INFO [cart] rq-2596 Cart updated
+2026-10-15 02:28:26 ERROR [stock] rq-6604 Database connection refused
+2026-10-15 02:32:07 INFO [checkout] rq-2320 Order placed
+2026-10-15 02:36:20 INFO [login] rq-2848 User logged in
+2026-10-15 02:40:20 INFO [checkout] rq-5248 Order placed
+2026-10-15 02:44:33 INFO [checkout] rq-5326 Order placed
+2026-10-15 02:48:38 INFO [stock] rq-6880 Stock updated
+2026-10-15 02:52:18 INFO [checkout] rq-5404 Order placed
+2026-10-15 02:56:31 INFO [checkout] rq-5614 Order placed
+2026-10-15 03:00:39 INFO [stock] rq-1264 Stock updated
+2026-10-15 03:04:02 ERROR [cart] rq-3568 Database connection refused
+2026-10-15 03:08:45 INFO [login] rq-2164 User logged in
+2026-10-15 03:12:06 WARN [cart] rq-5854 Cart sync delayed
+2026-10-15 03:16:34 INFO [cart] rq-3904 Cart updated
+2026-10-15 03:20:15 INFO [stock] rq-1396 Stock updated
+2026-10-15 03:24:18 WARN [search] rq-2056 Slow search query (1.8s)
+2026-10-15 03:28:58 INFO [checkout] rq-1636 Order placed
+2026-10-15 03:32:18 INFO [delivery] rq-6916 Rider assigned
+2026-10-15 03:36:39 INFO [payment] rq-4480 Payment received
+2026-10-15 03:40:18 INFO [login] rq-4786 User logged in
+2026-10-15 03:44:03 INFO [login] rq-2368 User logged in
+2026-10-15 03:48:22 WARN [payment] rq-1360 Payment retry needed
+2026-10-15 03:52:38 INFO [payment] rq-5914 Payment received
+2026-10-15 03:56:34 INFO [login] rq-6268 User logged in
+2026-10-15 04:00:48 INFO [search] rq-2422 Search completed
+2026-10-15 04:04:29 INFO [cart] rq-4702 Cart updated
+2026-10-15 04:08:54 INFO [cart] rq-5152 Cart updated
+2026-10-15 04:12:43 INFO [stock] rq-6826 Stock updated
+2026-10-15 04:16:00 WARN [login] rq-6934 Too many login attempts
+2026-10-15 04:20:13 INFO [delivery] rq-3448 Rider assigned
+2026-10-15 04:24:30 INFO [checkout] rq-1048 Order placed
+2026-10-15 04:28:51 INFO [checkout] rq-5068 Order placed
+2026-10-15 04:32:34 ERROR [cart] rq-6676 Database connection refused
+2026-10-15 04:36:21 INFO [login] rq-3790 User logged in
+2026-10-15 04:40:34 INFO [cart] rq-3664 Cart updated
+2026-10-15 04:44:17 INFO [delivery] rq-4252 Rider assigned
+2026-10-15 04:48:20 WARN [payment] rq-2026 Payment retry needed
+2026-10-15 04:52:54 INFO [search] rq-5182 Search completed
+2026-10-15 04:56:44 INFO [stock] rq-5134 Stock updated
+2026-10-15 05:00:05 INFO [login] rq-3364 User logged in
+2026-10-15 05:04:39 WARN [delivery] rq-4654 Rider location unknown
+2026-10-15 05:08:13 INFO [login] rq-3022 User logged in
+2026-10-15 05:12:04 INFO [cart] rq-4432 Cart updated
+2026-10-15 05:16:12 INFO [checkout] rq-3496 Order placed
+2026-10-15 05:20:13 WARN [stock] rq-3688 Low stock: tomatoes
+2026-10-15 05:24:54 WARN [delivery] rq-6040 Rider location unknown
+2026-10-15 05:28:16 ERROR [payment] rq-1270 Payment gateway timeout after 30s
+2026-10-15 05:32:43 INFO [payment] rq-3112 Payment received
+2026-10-15 05:36:48 INFO [delivery] rq-3982 Rider assigned
+2026-10-15 05:40:59 INFO [cart] rq-2506 Cart updated
+2026-10-15 05:44:32 INFO [delivery] rq-3856 Rider assigned
+2026-10-15 05:48:12 WARN [checkout] rq-6238 Slow checkout page (2.1s)
+2026-10-15 05:52:20 INFO [payment] rq-4714 Payment received
+2026-10-15 05:56:20 INFO [search] rq-3514 Search completed
+2026-10-15 06:00:18 INFO [cart] rq-4732 Cart updated
+2026-10-15 06:04:54 INFO [payment] rq-4318 Payment received
+2026-10-15 06:08:53 WARN [payment] rq-2032 Payment retry needed
+2026-10-15 06:12:00 INFO [delivery] rq-4972 Rider assigned
+2026-10-15 06:16:57 INFO [search] rq-1456 Search completed
+2026-10-15 06:20:48 INFO [delivery] rq-6616 Rider assigned
+2026-10-15 06:24:12 INFO [cart] rq-1450 Cart updated
+2026-10-15 06:28:18 INFO [cart] rq-6010 Cart updated
+2026-10-15 06:32:29 INFO [cart] rq-4330 Cart updated
+2026-10-15 06:36:18 INFO [search] rq-5446 Search completed
+2026-10-15 06:40:05 WARN [search] rq-1528 Slow search query (1.8s)
+2026-10-15 06:44:48 INFO [delivery] rq-2836 Rider assigned
+2026-10-15 06:48:33 INFO [stock] rq-6730 Stock updated
+2026-10-15 06:52:06 INFO [stock] rq-1426 Stock updated
+2026-10-15 06:56:59 INFO [login] rq-4420 User logged in
+2026-10-15 07:00:06 INFO [cart] rq-3352 Cart updated
+2026-10-15 07:04:06 INFO [payment] rq-3040 Payment received
+2026-10-15 07:08:30 INFO [checkout] rq-2032 Order placed
+2026-10-15 07:12:21 INFO [payment] rq-2770 Payment received
+2026-10-15 07:16:54 INFO [stock] rq-6364 Stock updated
+2026-10-15 07:20:45 INFO [search] rq-5530 Search completed
+2026-10-15 07:24:55 INFO [login] rq-2518 User logged in
+2026-10-15 07:28:38 INFO [payment] rq-3676 Payment received
+2026-10-15 07:32:08 INFO [payment] rq-3220 Payment received
+2026-10-15 07:36:09 INFO [checkout] rq-2776 Order placed
+2026-10-15 07:40:47 ERROR [delivery] rq-5650 Rider app returned HTTP 500
+2026-10-15 07:44:37 INFO [delivery] rq-3586 Rider assigned
+2026-10-15 07:48:19 INFO [payment] rq-1264 Payment received
+2026-10-15 07:52:16 INFO [search] rq-5674 Search completed
+2026-10-15 07:56:50 INFO [search] rq-3598 Search completed
+2026-10-15 08:00:41 INFO [cart] rq-4840 Cart updated
+2026-10-15 08:04:30 WARN [login] rq-1582 Too many login attempts
+2026-10-15 08:08:21 INFO [delivery] rq-4846 Rider assigned
+2026-10-15 08:12:41 ERROR [login] rq-5536 Database connection refused
+2026-10-15 08:16:09 INFO [login] rq-3982 User logged in
+2026-10-15 08:20:03 INFO [cart] rq-2116 Cart updated
+2026-10-15 08:24:44 INFO [search] rq-4708 Search completed
+2026-10-15 08:28:53 INFO [checkout] rq-5638 Order placed
+2026-10-15 08:32:15 INFO [login] rq-2302 User logged in
+2026-10-15 08:36:30 INFO [delivery] rq-5830 Rider assigned
+2026-10-15 08:40:19 WARN [delivery] rq-4876 Rider location unknown
+2026-10-15 08:44:12 ERROR [cart] rq-6976 Database connection refused
+2026-10-15 08:48:56 ERROR [login] rq-1516 Database connection refused
+2026-10-15 08:52:09 ERROR [stock] rq-3556 Database connection refused
+2026-10-15 08:56:26 INFO [search] rq-5572 Search completed
+2026-10-15 09:00:13 INFO [cart] rq-2050 Cart updated
+2026-10-15 09:04:30 WARN [payment] rq-1378 Payment retry needed
+2026-10-15 09:08:40 INFO [delivery] rq-3820 Rider assigned
+2026-10-15 09:12:51 INFO [login] rq-3868 User logged in
+2026-10-15 09:16:11 INFO [payment] rq-6316 Payment received
+2026-10-15 09:20:51 INFO [delivery] rq-6496 Rider assigned
+2026-10-15 09:24:22 INFO [payment] rq-3268 Payment received
+2026-10-15 09:28:14 INFO [payment] rq-5518 Payment received
+2026-10-15 09:32:21 WARN [delivery] rq-4120 Rider location unknown
+2026-10-15 09:36:43 INFO [search] rq-2170 Search completed
+2026-10-15 09:40:06 INFO [checkout] rq-4480 Order placed
+2026-10-15 09:44:52 INFO [stock] rq-4564 Stock updated
+2026-10-15 09:48:51 INFO [login] rq-5776 User logged in
+2026-10-15 09:52:22 INFO [cart] rq-2800 Cart updated
+2026-10-15 09:56:58 INFO [payment] rq-1594 Payment received
+2026-10-15 10:00:43 INFO [stock] rq-1198 Stock updated
+2026-10-15 10:04:30 INFO [payment] rq-1774 Payment received
+2026-10-15 10:08:25 INFO [checkout] rq-3718 Order placed
+2026-10-15 10:12:14 INFO [search] rq-4162 Search completed
+2026-10-15 10:16:56 INFO [checkout] rq-4906 Order placed
+2026-10-15 10:20:31 INFO [payment] rq-2806 Payment received
+2026-10-15 10:24:40 INFO [checkout] rq-4636 Order placed
+2026-10-15 10:28:00 INFO [cart] rq-3340 Cart updated
+2026-10-15 10:32:22 INFO [search] rq-6184 Search completed
+2026-10-15 10:36:40 INFO [checkout] rq-4600 Order placed
+2026-10-15 10:40:30 INFO [cart] rq-1222 Cart updated
+2026-10-15 10:44:45 INFO [cart] rq-4114 Cart updated
+2026-10-15 10:48:00 WARN [login] rq-2722 Too many login attempts
+2026-10-15 10:52:52 INFO [search] rq-3934 Search completed
+2026-10-15 10:56:26 WARN [delivery] rq-1588 Rider location unknown
+2026-10-15 11:00:13 INFO [delivery] rq-1150 Rider assigned
+2026-10-15 11:04:06 WARN [payment] rq-4834 Payment retry needed
+2026-10-15 11:08:31 INFO [delivery] rq-5452 Rider assigned
+2026-10-15 11:12:39 INFO [stock] rq-1258 Stock updated
+2026-10-15 11:16:26 INFO [payment] rq-3610 Payment received
+2026-10-15 11:20:07 WARN [cart] rq-3058 Cart sync delayed
+2026-10-15 11:24:34 INFO [payment] rq-1714 Payment received
+2026-10-15 11:28:11 INFO [payment] rq-2008 Payment received
+2026-10-15 11:32:01 INFO [checkout] rq-4150 Order placed
+2026-10-15 11:36:29 INFO [search] rq-5836 Search completed
+2026-10-15 11:40:14 WARN [payment] rq-5818 Payment retry needed
+2026-10-15 11:44:15 INFO [cart] rq-1522 Cart updated
+2026-10-15 11:48:10 INFO [login] rq-3190 User logged in
+2026-10-15 11:52:43 INFO [cart] rq-5290 Cart updated
+2026-10-15 11:56:37 INFO [delivery] rq-2398 Rider assigned
+2026-10-15 12:00:13 INFO [cart] rq-3976 Cart updated
+2026-10-15 12:04:28 INFO [login] rq-6100 User logged in
+2026-10-15 12:08:09 INFO [cart] rq-3862 Cart updated
+2026-10-15 12:12:58 ERROR [search] rq-2866 Search index unavailable
+2026-10-15 12:16:27 INFO [login] rq-5086 User logged in
+2026-10-15 12:20:29 ERROR [checkout] rq-3658 Order could not be saved
+2026-10-15 12:24:53 INFO [delivery] rq-6346 Rider assigned
+2026-10-15 12:28:00 INFO [stock] rq-2854 Stock updated
+2026-10-15 12:32:30 INFO [login] rq-6340 User logged in
+2026-10-15 12:36:25 INFO [login] rq-3832 User logged in
+2026-10-15 12:40:58 INFO [payment] rq-5920 Payment received
+2026-10-15 12:44:30 INFO [cart] rq-2404 Cart updated
+2026-10-15 12:48:43 ERROR [checkout] rq-3790 Order could not be saved
+2026-10-15 12:52:27 INFO [payment] rq-6658 Payment received
+2026-10-15 12:56:48 INFO [login] rq-2530 User logged in
+2026-10-15 13:00:04 INFO [search] rq-4438 Search completed
+2026-10-15 13:01:31 ERROR [payment] rq-2710 Payment gateway timeout after 30s
+2026-10-15 13:02:53 INFO [checkout] rq-3550 Order placed
+2026-10-15 13:04:22 ERROR [checkout] rq-1732 Order could not be saved
+2026-10-15 13:05:33 ERROR [payment] rq-3952 Payment gateway timeout after 30s
+2026-10-15 13:06:04 ERROR [payment] rq-6100 Payment gateway timeout after 30s
+2026-10-15 13:08:14 ERROR [payment] rq-2470 Payment gateway timeout after 30s
+2026-10-15 13:09:47 INFO [cart] rq-6706 Cart updated
+2026-10-15 13:10:54 ERROR [payment] rq-3874 Payment gateway timeout after 30s
+2026-10-15 13:12:49 ERROR [payment] rq-5110 Payment gateway timeout after 30s
+2026-10-15 13:13:06 ERROR [payment] rq-5878 Payment gateway timeout after 30s
+2026-10-15 13:14:27 ERROR [payment] rq-6082 Payment gateway timeout after 30s
+2026-10-15 13:16:23 ERROR [payment] rq-4210 Payment gateway timeout after 30s
+2026-10-15 13:17:15 ERROR [payment] rq-6562 Payment gateway timeout after 30s
+2026-10-15 13:18:08 ERROR [payment] rq-2962 Payment gateway timeout after 30s
+2026-10-15 13:20:05 ERROR [payment] rq-6028 Payment gateway timeout after 30s
+2026-10-15 13:21:34 ERROR [payment] rq-5476 Payment gateway timeout after 30s
+2026-10-15 13:22:11 ERROR [payment] rq-3820 Payment gateway timeout after 30s
+2026-10-15 13:24:56 ERROR [payment] rq-5464 Payment gateway timeout after 30s
+2026-10-15 13:25:39 ERROR [stock] rq-1048 Database connection refused
+2026-10-15 13:26:09 ERROR [payment] rq-4252 Payment gateway timeout after 30s
+2026-10-15 13:28:23 ERROR [payment] rq-3466 Payment gateway timeout after 30s
+2026-10-15 13:29:09 ERROR [payment] rq-1174 Payment gateway timeout after 30s
+2026-10-15 13:30:58 ERROR [payment] rq-6244 Payment gateway timeout after 30s
+2026-10-15 13:32:37 WARN [delivery] rq-2152 Rider location unknown
+2026-10-15 13:33:37 WARN [search] rq-1618 Slow search query (1.8s)
+2026-10-15 13:34:04 ERROR [payment] rq-2260 Payment gateway timeout after 30s
+2026-10-15 13:36:39 ERROR [payment] rq-4066 Payment gateway timeout after 30s
+2026-10-15 13:37:57 INFO [stock] rq-3334 Stock updated
+2026-10-15 13:38:42 INFO [payment] rq-3256 Payment received
+2026-10-15 13:40:01 ERROR [payment] rq-5026 Payment gateway timeout after 30s
+2026-10-15 13:41:30 ERROR [payment] rq-1984 Payment gateway timeout after 30s
+2026-10-15 13:42:41 WARN [payment] rq-1696 Payment retry needed
+2026-10-15 13:44:16 INFO [checkout] rq-4942 Order placed
+2026-10-15 13:45:20 ERROR [login] rq-2518 Database connection refused
+2026-10-15 13:46:23 ERROR [payment] rq-4288 Payment gateway timeout after 30s
+2026-10-15 13:48:08 ERROR [payment] rq-1276 Payment gateway timeout after 30s
+2026-10-15 13:49:54 ERROR [payment] rq-6304 Payment gateway timeout after 30s
+2026-10-15 13:50:41 ERROR [payment] rq-1024 Payment gateway timeout after 30s
+2026-10-15 13:52:44 WARN [delivery] rq-6136 Rider location unknown
+2026-10-15 13:53:24 INFO [stock] rq-1024 Stock updated
+2026-10-15 13:54:16 ERROR [payment] rq-1966 Payment gateway timeout after 30s
+2026-10-15 13:56:20 WARN [delivery] rq-2050 Rider location unknown
+2026-10-15 13:57:08 WARN [delivery] rq-2350 Rider location unknown
+2026-10-15 13:58:50 INFO [checkout] rq-3982 Order placed
+2026-10-15 14:00:22 INFO [delivery] rq-5524 Rider assigned
+2026-10-15 14:04:20 INFO [checkout] rq-4978 Order placed
+2026-10-15 14:08:18 INFO [stock] rq-3868 Stock updated
+2026-10-15 14:12:41 INFO [checkout] rq-1366 Order placed
+2026-10-15 14:16:16 WARN [search] rq-3256 Slow search query (1.8s)
+2026-10-15 14:20:08 INFO [cart] rq-3910 Cart updated
+2026-10-15 14:24:28 INFO [payment] rq-5500 Payment received
+2026-10-15 14:28:36 INFO [search] rq-1600 Search completed
+2026-10-15 14:32:28 INFO [checkout] rq-4618 Order placed
+2026-10-15 14:36:29 INFO [checkout] rq-5140 Order placed
+2026-10-15 14:40:34 INFO [cart] rq-6514 Cart updated
+2026-10-15 14:44:40 INFO [login] rq-6838 User logged in
+2026-10-15 14:48:32 INFO [search] rq-1456 Search completed
+2026-10-15 14:52:50 ERROR [checkout] rq-5872 Order could not be saved
+2026-10-15 14:56:46 INFO [login] rq-2014 User logged in
+2026-10-15 15:00:54 INFO [delivery] rq-1126 Rider assigned
+2026-10-15 15:04:16 INFO [checkout] rq-3790 Order placed
+2026-10-15 15:08:53 INFO [stock] rq-2452 Stock updated
+2026-10-15 15:12:03 INFO [cart] rq-3658 Cart updated
+2026-10-15 15:16:47 INFO [login] rq-1516 User logged in
+2026-10-15 15:20:23 INFO [login] rq-3268 User logged in
+2026-10-15 15:24:01 WARN [cart] rq-5002 Cart sync delayed
+2026-10-15 15:28:16 ERROR [checkout] rq-2560 Order could not be saved
+2026-10-15 15:32:03 INFO [search] rq-3430 Search completed
+2026-10-15 15:36:35 INFO [login] rq-2560 User logged in
+2026-10-15 15:40:54 INFO [checkout] rq-6838 Order placed
+2026-10-15 15:44:24 WARN [search] rq-4276 Slow search query (1.8s)
+2026-10-15 15:48:57 INFO [search] rq-6478 Search completed
+2026-10-15 15:52:41 INFO [checkout] rq-4216 Order placed
+2026-10-15 15:56:02 INFO [search] rq-4702 Search completed
+2026-10-15 16:00:47 INFO [cart] rq-2854 Cart updated
+2026-10-15 16:04:00 WARN [checkout] rq-4132 Slow checkout page (2.1s)
+2026-10-15 16:08:45 INFO [cart] rq-1264 Cart updated
+2026-10-15 16:12:32 INFO [payment] rq-1798 Payment received
+2026-10-15 16:16:42 INFO [checkout] rq-5632 Order placed
+2026-10-15 16:20:59 ERROR [delivery] rq-3916 Rider app returned HTTP 500
+2026-10-15 16:24:13 INFO [checkout] rq-3880 Order placed
+2026-10-15 16:28:32 INFO [login] rq-1762 User logged in
+2026-10-15 16:32:02 WARN [stock] rq-5884 Low stock: tomatoes
+2026-10-15 16:36:25 INFO [search] rq-4246 Search completed
+2026-10-15 16:40:46 INFO [stock] rq-3742 Stock updated
+2026-10-15 16:44:49 INFO [login] rq-6184 User logged in
+2026-10-15 16:48:05 INFO [stock] rq-1630 Stock updated
+2026-10-15 16:52:25 INFO [payment] rq-2614 Payment received
+2026-10-15 16:56:19 INFO [checkout] rq-6712 Order placed
+2026-10-15 17:00:29 INFO [login] rq-2524 User logged in
+2026-10-15 17:04:10 INFO [delivery] rq-2470 Rider assigned
+2026-10-15 17:08:33 WARN [payment] rq-1900 Payment retry needed
+2026-10-15 17:12:09 INFO [search] rq-2650 Search completed
+2026-10-15 17:16:03 WARN [checkout] rq-3208 Slow checkout page (2.1s)
+2026-10-15 17:20:57 INFO [cart] rq-5422 Cart updated
+2026-10-15 17:24:14 INFO [stock] rq-5698 Stock updated
+2026-10-15 17:28:01 INFO [cart] rq-3214 Cart updated
+2026-10-15 17:32:51 INFO [delivery] rq-1648 Rider assigned
+2026-10-15 17:36:15 WARN [cart] rq-5914 Cart sync delayed
+2026-10-15 17:40:17 INFO [search] rq-5206 Search completed
+2026-10-15 17:44:22 INFO [delivery] rq-4324 Rider assigned
+2026-10-15 17:48:19 WARN [login] rq-4042 Too many login attempts
+2026-10-15 17:52:37 WARN [delivery] rq-3226 Rider location unknown
+2026-10-15 17:56:27 INFO [checkout] rq-6436 Order placed
+2026-10-15 18:00:05 INFO [payment] rq-1738 Payment received
+2026-10-15 18:04:54 INFO [stock] rq-3796 Stock updated
+2026-10-15 18:08:53 ERROR [login] rq-3544 Database connection refused
+2026-10-15 18:12:29 INFO [cart] rq-3220 Cart updated
+2026-10-15 18:16:35 INFO [search] rq-5734 Search completed
+2026-10-15 18:20:40 INFO [search] rq-4996 Search completed
+2026-10-15 18:24:22 INFO [payment] rq-6526 Payment received
+2026-10-15 18:28:31 WARN [cart] rq-1660 Cart sync delayed
+2026-10-15 18:32:52 INFO [cart] rq-4492 Cart updated
+2026-10-15 18:36:16 INFO [checkout] rq-5182 Order placed
+2026-10-15 18:40:19 INFO [delivery] rq-6976 Rider assigned
+2026-10-15 18:44:13 INFO [search] rq-5158 Search completed
+2026-10-15 18:48:34 INFO [payment] rq-6940 Payment received
+2026-10-15 18:52:23 INFO [checkout] rq-4966 Order placed
+2026-10-15 18:56:35 INFO [login] rq-2644 User logged in
+2026-10-15 19:00:32 INFO [cart] rq-6982 Cart updated
+2026-10-15 19:04:29 INFO [stock] rq-4756 Stock updated
+2026-10-15 19:08:15 INFO [delivery] rq-3730 Rider assigned
+2026-10-15 19:12:46 INFO [checkout] rq-1858 Order placed
+2026-10-15 19:16:56 WARN [search] rq-5788 Slow search query (1.8s)
+2026-10-15 19:20:40 INFO [cart] rq-3226 Cart updated
+2026-10-15 19:24:00 WARN [checkout] rq-4576 Slow checkout page (2.1s)
+2026-10-15 19:28:46 WARN [cart] rq-1366 Cart sync delayed
+2026-10-15 19:32:32 INFO [login] rq-6940 User logged in
+2026-10-15 19:36:37 INFO [payment] rq-5842 Payment received
+2026-10-15 19:40:55 INFO [search] rq-4582 Search completed
+2026-10-15 19:44:49 INFO [payment] rq-5518 Payment received
+2026-10-15 19:48:03 INFO [cart] rq-2038 Cart updated
+2026-10-15 19:52:00 INFO [login] rq-1756 User logged in
+2026-10-15 19:56:15 INFO [login] rq-5218 User logged in
+2026-10-15 20:00:53 ERROR [search] rq-3136 Search index unavailable
+2026-10-15 20:04:04 INFO [checkout] rq-4846 Order placed
+2026-10-15 20:08:00 WARN [cart] rq-5350 Cart sync delayed
+2026-10-15 20:12:06 WARN [login] rq-5386 Too many login attempts
+2026-10-15 20:16:54 INFO [cart] rq-4708 Cart updated
+2026-10-15 20:20:05 ERROR [login] rq-4996 Database connection refused
+2026-10-15 20:24:32 INFO [payment] rq-3526 Payment received
+2026-10-15 20:28:35 INFO [delivery] rq-5836 Rider assigned
+2026-10-15 20:32:44 INFO [cart] rq-4054 Cart updated
+2026-10-15 20:36:15 INFO [delivery] rq-2956 Rider assigned
+2026-10-15 20:40:38 INFO [payment] rq-1696 Payment received
+2026-10-15 20:44:18 INFO [login] rq-4990 User logged in
+2026-10-15 20:48:03 INFO [stock] rq-3076 Stock updated
+2026-10-15 20:52:12 INFO [payment] rq-6688 Payment received
+2026-10-15 20:56:34 WARN [checkout] rq-2020 Slow checkout page (2.1s)
+2026-10-15 21:00:37 ERROR [search] rq-4750 Search index unavailable
+2026-10-15 21:04:49 INFO [payment] rq-5662 Payment received
+2026-10-15 21:08:14 WARN [cart] rq-5680 Cart sync delayed
+2026-10-15 21:12:26 WARN [stock] rq-4192 Low stock: tomatoes
+2026-10-15 21:16:23 INFO [search] rq-5362 Search completed
+2026-10-15 21:20:08 INFO [delivery] rq-5086 Rider assigned
+2026-10-15 21:24:06 INFO [stock] rq-4534 Stock updated
+2026-10-15 21:28:30 INFO [delivery] rq-5338 Rider assigned
+2026-10-15 21:32:01 INFO [search] rq-3400 Search completed
+2026-10-15 21:36:06 INFO [stock] rq-2392 Stock updated
+2026-10-15 21:40:37 INFO [search] rq-1606 Search completed
+2026-10-15 21:44:45 WARN [checkout] rq-3574 Slow checkout page (2.1s)
+2026-10-15 21:48:23 INFO [search] rq-3232 Search completed
+2026-10-15 21:52:27 INFO [payment] rq-4882 Payment received
+2026-10-15 21:56:23 INFO [delivery] rq-3658 Rider assigned
+2026-10-15 22:00:09 INFO [search] rq-6670 Search completed
+2026-10-15 22:04:34 INFO [search] rq-5818 Search completed
+2026-10-15 22:08:31 INFO [cart] rq-6106 Cart updated
+2026-10-15 22:12:43 INFO [cart] rq-5458 Cart updated
+2026-10-15 22:16:07 INFO [search] rq-4258 Search completed
+2026-10-15 22:20:44 INFO [payment] rq-2116 Payment received
+2026-10-15 22:24:26 INFO [stock] rq-1066 Stock updated
+2026-10-15 22:28:08 INFO [delivery] rq-5800 Rider assigned
+2026-10-15 22:32:59 INFO [cart] rq-6448 Cart updated
+2026-10-15 22:36:41 INFO [search] rq-4366 Search completed
+2026-10-15 22:40:26 INFO [search] rq-3112 Search completed
+2026-10-15 22:44:29 INFO [stock] rq-5536 Stock updated
+2026-10-15 22:48:11 INFO [search] rq-1294 Search completed
+2026-10-15 22:52:39 INFO [checkout] rq-4456 Order placed
+2026-10-15 22:56:42 INFO [checkout] rq-3682 Order placed
+2026-10-15 23:00:09 INFO [search] rq-3796 Search completed
+2026-10-15 23:04:24 INFO [checkout] rq-3568 Order placed
+2026-10-15 23:08:13 INFO [payment] rq-5584 Payment received
+2026-10-15 23:12:13 INFO [delivery] rq-2200 Rider assigned
+2026-10-15 23:16:43 INFO [payment] rq-1060 Payment received
+2026-10-15 23:20:50 INFO [payment] rq-4822 Payment received
+2026-10-15 23:24:03 INFO [login] rq-2854 User logged in
+2026-10-15 23:28:46 INFO [checkout] rq-5044 Order placed
+2026-10-15 23:32:14 INFO [cart] rq-6490 Cart updated
+2026-10-15 23:36:19 INFO [stock] rq-4174 Stock updated
+2026-10-15 23:40:04 INFO [checkout] rq-1546 Order placed
+2026-10-15 23:44:40 INFO [delivery] rq-6010 Rider assigned
+2026-10-15 23:48:41 ERROR [login] rq-4036 Database connection refused
+2026-10-15 23:52:04 INFO [cart] rq-3598 Cart updated
+2026-10-15 23:56:22 INFO [search] rq-5482 Search completed
